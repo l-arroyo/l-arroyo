@@ -21,14 +21,14 @@ This year, I had the opportunity to participate in the Erasmus+ program in the c
 
 ### 💻 Latest Projects:
 
-#### SongSpotter
+#### [SongSpotter](https://songspotter.app/)
 ##### *May 2023 - Present*
 
 SongSpotter is a web application developed in Blazor that allows users to discover new songs in a simple and fun way, providing a fully personalized experience.
 
 My role in this project is that of founder and co-creator, as well as the lead developer for both the back-end and front-end of the application.
 
-#### Hola Nerds
+#### [Hola Nerds](https://holanerds.com/)
 ##### *November 2022 - Present*
 
 Hola Nerds is a technology website created with WordPress that focuses on providing its readers with news, reviews, and analysis of technology products and services.
