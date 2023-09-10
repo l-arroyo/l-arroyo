@@ -20,7 +20,6 @@ I consider myself a very creative person, passionate about technology, and const
 This year, I had the opportunity to participate in the Erasmus+ program in the city of Brno, Czech Republic, and intern at the company [Continero](https://www.continero.com/en/), where I developed a complete project in ASP.NET using the Blazor framework to manage the databases of their main application, [Tomtit](https://www.tomtit.app/).
 
 
-
 ### 💻 Latest Projects:
 
 #### SongSpotter
@@ -39,7 +38,7 @@ As a developer on the project, I played a central role in the creation and optim
 
 ### 🛠️ Languages and Technologies:
 
-<div>
+<div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
@@ -51,13 +50,14 @@ As a developer on the project, I played a central role in the creation and optim
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
-
 </div>
 
 
 ### 🤝 Let's work together!
 
 
-<img src="img/develop.gif" width="300"/>
+<div align="center">
+    <img src="img/develop.gif" width="300"/>
+</div>
 
 Let's connect in [LinkedIn](https://www.linkedin.com/in/lucas-arroyo-174a28196/)! I want to start new projects and face new challenges 😊
