@@ -6,7 +6,6 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn Profile"/>
     </a>
 </div>
-<br>
 <h1>Hey there! 👋🏻</h1>
 </div>
 
