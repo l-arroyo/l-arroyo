@@ -16,8 +16,9 @@ I'm **Lucas Arroyo**, a spanish young **Web App Developer** excited to work in n
 
 I consider myself a very creative person, passionate about technology, and constantly learning.
 
-This year, I had the opportunity to participate in the Erasmus+ program in the city of Brno, Czech Republic, and intern at the company [Continero](https://www.continero.com/en/), where I developed a complete project in ASP.NET using the Blazor framework to manage the databases of their main application, [Tomtit](https://www.tomtit.app/).
+In 2023, I had the opportunity to participate in the Erasmus+ program in the city of Brno, Czech Republic, and intern at the company [Continero](https://www.continero.com/en/), where I developed a complete project in ASP.NET using the Blazor framework to manage the databases of their main application, [Tomtit](https://www.tomtit.app/).
 
+I'm currently working at Memorándum Multimedia as a .NET Junior Developer :)
 
 ### 💻 Latest Projects:
 
